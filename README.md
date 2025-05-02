@@ -10,4 +10,4 @@ Olá! Este é um projeto realizado durante o bootcamp de `Análise de dados` da 
 
 No contexto deste projeto, uma loja online de videogames oferece dados de avaliações de jogos dos seus clientes para que seja analisado possíveis sucessos para futuras campanhas publicitárias. 
 
-Este projeto ainda está em sua versão "antiga" mas em breve será atualizado para uma versão com mais detalhes.
+Este projeto ainda está com comentários meus e do revisor, mas em breve será atualizado para uma versão mais limpa e estruturada.
