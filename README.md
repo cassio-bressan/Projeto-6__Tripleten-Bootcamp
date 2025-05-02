@@ -1,9 +1,11 @@
 # Projeto-6__Tripleten-Bootcamp
  
 ## Description
-Hello! This project was developed during the `Data Analysis` bootcamp at TripleTen in 2024. It was evaluated and approved by a professional and its focus was data analysis for the production of reports with visualizations.
+Hello! This project was developed during the `Data Analysis` bootcamp at TripleTen in 2024. It was evaluated and approved by a professional and its focus was and its focus was data analysis for customer segmentation.
 
-In the context of this project, a supermarket delivery platform provides data to study its customers' shopping habits.
+In the context of this project, an online video game store provides customer game rating data to analyze potential successes for future advertising campaigns.
+
+This project currently includes my annotations and reviewer feedback, but a refined and restructured version will be published shortly.
 
 ## Descrição
 Olá! Este é um projeto realizado durante o bootcamp de `Análise de dados` da Tripleten em 2024. Este projeto foi avaliado e aprovado por um profissional, e seu foco foi a análise de dados para a segmentação de clientes.
